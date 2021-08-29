@@ -135,7 +135,7 @@ function getNextPalindromeDate(date) {
 
 
 var dateInputRef = document.querySelector('#bday-input');
-var showBtnRef = document.querySelector('#showk-btn');
+var showBtnRef = document.querySelector('#show-btn');
 var resultRef = document.querySelector('#result');
 
 function clickHandler(e) {
